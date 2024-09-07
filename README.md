@@ -1,5 +1,5 @@
-## Hi there 👋 My name is Ryan, and I'm studying AI.
-
+## Hi there 👋
+My name is Ryan, and I'm studying AI.
 <!--
 **hyunurj/hyunurj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
